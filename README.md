@@ -1,4 +1,4 @@
-## NoAI == not only AI
+## NoAILabs
 
 NoAILabs explores a wide range of scientific and technological fields, with a strong emphasis on IT and AI.
 <!--
