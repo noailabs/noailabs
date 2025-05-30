@@ -1,6 +1,6 @@
 ## noailabs
 
-NoAILabs explores a wide range of scientific and technological fields, with a strong emphasis on IT and AI.
+Noailabs explores a wide range of scientific and technological fields, with a strong emphasis on IT and AI.
 <!--
 **noailabs/noailabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
